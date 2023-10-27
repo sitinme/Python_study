@@ -122,3 +122,15 @@ else:
 
 Python字符串是处理文本和字符数据的强大工具。本文介绍了字符串的定义、基本操作、常见方法、格式化、处理技巧和实际应用场景。深入学习字符串将在Python编程中更灵活地处理文本数据。
 
+## 更多资料领取
+更多 Python 相关干货 内容，扫码领取！！！
+
+![image](https://github.com/sitinme/Python_study/assets/5089397/33b59f57-207b-4aeb-9044-05701f5ab2eb)
+
+也欢迎大家围观我的朋友圈，日常会分享技术相关、副业与创业思考等！
+
+添加涛哥 VX： 257735，围观朋友圈，一起学 Python
+
+![img_v2_a909825a-bd17-4056-a319-f77ab3e802cg](https://github.com/sitinme/Python_study/assets/5089397/66b7e6b1-9ca3-4576-9eaa-82a297884f92)
+
+
