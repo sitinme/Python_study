@@ -81,14 +81,15 @@ student = ("Alice", 25, "Computer Science")
 
 不要忽视这个强大而灵活的数据类型，它将为编程工作带来更多便捷和效率。继续探索Python的元组，并将它们融入到日常编程实践中，以便更好地处理各种数据需求。
 
-## 更多资料领取
-更多 Python 相关干货 内容，扫码领取！！！
+--- 
 
-![image](https://github.com/sitinme/Python_study/assets/5089397/33b59f57-207b-4aeb-9044-05701f5ab2eb)
+## Python学习路线
 
-也欢迎大家围观我的朋友圈，日常会分享技术相关、副业与创业思考等！
+<img width="1357" alt="Python基础知识" src="https://github.com/sitinme/Python_study/assets/5089397/5df21811-fd10-43c1-9066-1b192262b268">
 
-添加涛哥 VX： 257735，围观朋友圈，一起学 Python
+## 更多学习｜面试资料
 
-![img_v2_a909825a-bd17-4056-a319-f77ab3e802cg](https://github.com/sitinme/Python_study/assets/5089397/66b7e6b1-9ca3-4576-9eaa-82a297884f92)
+个人网站：http://ipengtao.com/
+
+![](https://p.ipic.vip/knbt3a.png)
 
