@@ -80,3 +80,15 @@ student = ("Alice", 25, "Computer Science")
 在编写Python代码时，了解如何使用元组可以提高代码的可读性和性能。不论是在函数返回多个值、表示数据记录，还是在需要不可变性的场景下，元组都是得力助手。
 
 不要忽视这个强大而灵活的数据类型，它将为编程工作带来更多便捷和效率。继续探索Python的元组，并将它们融入到日常编程实践中，以便更好地处理各种数据需求。
+
+## 更多资料领取
+更多 Python 相关干货 内容，扫码领取！！！
+
+![image](https://github.com/sitinme/Python_study/assets/5089397/33b59f57-207b-4aeb-9044-05701f5ab2eb)
+
+也欢迎大家围观我的朋友圈，日常会分享技术相关、副业与创业思考等！
+
+添加涛哥 VX： 257735，围观朋友圈，一起学 Python
+
+![img_v2_a909825a-bd17-4056-a319-f77ab3e802cg](https://github.com/sitinme/Python_study/assets/5089397/66b7e6b1-9ca3-4576-9eaa-82a297884f92)
+
