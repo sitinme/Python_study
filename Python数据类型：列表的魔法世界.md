@@ -87,3 +87,16 @@ for fruit in fruits:
 Python列表是处理有序数据集合的强大工具，具备丰富的操作和方法。本文介绍了列表的定义、基本操作、常见方法、列表推导式、多维列表和实际应用场景，能帮助你更好地应用列表数据类型。
 
 
+--- 
+
+## Python学习路线
+
+<img width="1357" alt="Python基础知识" src="https://github.com/sitinme/Python_study/assets/5089397/5df21811-fd10-43c1-9066-1b192262b268">
+
+## 更多学习｜面试资料
+
+个人网站：http://ipengtao.com/
+
+![](https://p.ipic.vip/knbt3a.png)
+
+
