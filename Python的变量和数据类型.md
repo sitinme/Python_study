@@ -79,3 +79,16 @@ print(f"1 到 5 的和是：{total}")
 ## 总结
 Python的变量和数据类型是编程的基础，了解如何定义变量、不同的数据类型、变量赋值、命名规则和数据类型转换是成为Python程序员的第一步。深入理解这些概念将有助于您编写更强大和灵活的Python程序。
 
+--- 
+
+## Python学习路线
+
+<img width="1357" alt="Python基础知识" src="https://github.com/sitinme/Python_study/assets/5089397/5df21811-fd10-43c1-9066-1b192262b268">
+
+## 更多学习｜面试资料
+
+个人网站：http://ipengtao.com/
+
+![](https://p.ipic.vip/knbt3a.png)
+
+
