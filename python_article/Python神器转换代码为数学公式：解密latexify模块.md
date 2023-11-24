@@ -1,0 +1,104 @@
+![](https://p.ipic.vip/cfnkto.png)
+
+在数学建模、科学计算和机器学习等领域，Python 是一种常用的编程语言。经常需要将Python代码转换为数学公式，以便进行文档编写、学术论文撰写或者展示数学表达式。`latexify` 是一个神奇的 Python 模块，可以将 Python 代码转换为 LaTeX 格式的数学公式，让代码更易于理解和呈现。
+
+## 什么是 latexify？
+
+`latexify` 是一个轻量级的 Python 模块，可以将 Python 代码转换为 LaTeX 格式的数学表达式。这种转换是为了更好地呈现和展示数学表达式，使得公式更易于阅读、理解和分享。它支持多种数学函数、操作和变量，并能够生成 LaTeX 代码，适用于科学文档、学术论文等。
+
+## 安装 latexify
+
+要开始使用 `latexify`，需要先安装该模块。
+
+可以通过 pip 进行安装：
+
+```python
+pip install latexify
+```
+
+安装完成后，就可以开始使用 `latexify` 这个神奇的模块了！
+
+## 使用示例
+
+以下是一些使用 `latexify` 的示例，展示了它如何将 Python 代码转换为 LaTeX 格式的数学公式。
+
+### 示例 1：简单数学函数
+
+从一些简单的数学函数开始，看看 `latexify` 是如何工作的。
+
+```python
+from latexify import latexify
+
+@latexify
+def quadratic_formula(a, b, c):
+    return (-b + ((b**2 - 4*a*c)**0.5)) / (2*a)
+
+print(quadratic_formula)
+```
+
+这段代码将会把 `quadratic_formula` 函数转换为 LaTeX 格式的数学表达式。`print(quadratic_formula)` 的输出结果将是 LaTeX 代码，表示二次方程的解。
+
+### 示例 2：复杂函数和运算
+
+下面的示例演示了 `latexify` 如何处理更复杂的函数和运算。
+
+```python
+from latexify import latexify
+import sympy as sp
+
+@latexify
+def integrate_example():
+    x = sp.symbols('x')
+    f = x**2 + 5*x + 6
+    integral = sp.integrate(f, x)
+    return integral
+
+print(integrate_example)
+```
+
+这段代码展示了如何将 SymPy 库的函数转换为 LaTeX 格式。`integrate_example` 函数计算了一个多项式函数的积分，并用 `latexify` 转换为 LaTeX 格式的数学表达式。
+
+### 示例 3：多行公式
+
+有时候，数学公式可能会很复杂，跨越多行展示。`latexify` 也能很好地处理这种情况。
+
+```python
+from latexify import Latexify
+
+latex = Latexify()
+
+# Define the variables
+x, y, z = latex.create_variable('x y z')
+
+# Define the equations
+eq1 = 2 * x + 3 * y - z
+eq2 = 5 * x - 2 * y + 6 * z
+eq3 = x + 4 * y - 3 * z
+
+# Display the equations
+latex.set_eqs([eq1, eq2, eq3])
+print(latex.get_latex())
+```
+
+这个例子展示了如何使用 `latexify` 处理多行公式。定义了几个方程，将其转换为 LaTeX 格式，方便在文档中进行展示。
+
+### 示例 4：符号表达式的 latexify
+
+```python
+from latexify import latexify
+
+@latexify
+def symbolic_expression():
+    x, y = symbols('x y')
+    expression = (x + y)**3
+    return expression
+
+print(symbolic_expression)
+```
+
+这个示例展示了如何使用 `latexify` 处理符号表达式，通过 SymPy 库来定义符号，并将表达式转换为 LaTeX 格式。
+
+## 总结
+
+`latexify` 是一个非常有用的工具，能够将 Python 代码转换为 LaTeX 格式的数学公式。无论是简单的数学函数、复杂的公式还是符号表达式，它都能很好地处理，方便在学术论文、报告或者其他文档中展示数学表达式。
+
